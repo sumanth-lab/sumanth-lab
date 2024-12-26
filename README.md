@@ -1,30 +1,39 @@
 # Sumanth
 
-💫 About Me:
-Software Engineering:
-Programming Languages: Proficient in Java, Python, C/C++, JavaScript, SQL (Postgres), HTML/CSS, and R to build high-performance applications and services.
-Frameworks & Technologies: Experienced in developing web applications with React, Node.js, Spring Boot, and .NET, while leveraging TensorFlow for AI-driven solutions and PySpark for distributed data processing.
-Cloud Platforms: Expertise in using AWS (S3, EC2, Redshift, Glue, Lambda, CloudWatch) to deploy and scale cloud-based applications, ensuring reliability and efficiency.
-Developer Tools & DevOps: Hands-on experience with Git, Docker, VS Code, PyCharm, Postman, and Jenkins for version control, containerization, and continuous integration/deployment pipelines.
-Testing & Automation: Skilled in using Selenium, PyTest, A/B Testing, User Acceptance Testing (UAT), and Regression Testing to ensure software quality and reliability.
 
-Data Engineering:
-Data Pipelines & ETL: Building end-to-end ETL workflows using tools like Apache Kafka, Apache Airflow, AWS Glue, and dbt to manage data flows, transformations, and integration.
-Big Data Processing: Experienced with Hadoop, Spark, and PySpark for processing large datasets and enabling scalable analytics solutions.
-Data Warehousing & Analytics: Expertise in setting up data warehouses and analytics platforms using Redshift, Snowflake, BigQuery, and Azure Synapse Analytics to optimize data storage and performance.
-Data Visualization: Creating actionable insights with pandas, NumPy, Matplotlib, and visualization tools like Tableau, QuickSight, and Looker for impactful decision-making.
+# Koushik Modekurti | Software Engineer & Data Engineer
 
-I’m passionate about blending software engineering and data engineering to deliver end-to-end solutions that optimize both development and data workflows, helping organizations leverage technology for growth.
+Hi, I'm **Sumanth Gunda**, a passionate **Software Engineer** and **Data Engineer** with over 2+ years of experience in developing scalable software solutions, building efficient data pipelines, and enabling organizations to leverage cloud technologies for data-driven decision-making.
 
+## 🚀 What I Do
 
-🌐 Socials:
-https://www.linkedin.com/in/sumanthg1/
-https://github.com/sumanth-lab/
+I specialize in designing and building cloud-based applications, real-time data processing systems, and end-to-end data pipelines. I combine my expertise in software engineering with data engineering to deliver solutions that solve complex problems and create actionable insights.
 
-💻 Tech Stack:
-Languages: Java, Python, C/C++, SQL (Postgres), JavaScript, HTML/CSS, R, Bash, Shell Script, MongoDB
-Frameworks: React, Node.js, .NET, Spring Boot, TensorFlow, Jenkins, AI, PySpark
-Developer Tools: Git, Docker, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse, Postman
-Libraries: pandas, NumPy, Matplotlib
-Cloud: AWS (S3, EC2, Redshift, Glue, DMS, Lambda, CloudWatch)
-Testing Technologies: Selenium, A/B Testing, PyTest, User Acceptance Testing (UAT), Regression Testing
+### **Software Engineering**
+- **Programming Languages:** Java, Python, C/C++, JavaScript, SQL (Postgres), R, HTML/CSS, Bash, Shell Script, MongoDB
+- **Frameworks & Technologies:** React, Node.js, Spring Boot, .NET, TensorFlow, PySpark
+- **Cloud Platforms:** AWS (S3, EC2, Redshift, Glue, Lambda, CloudWatch)
+- **Developer Tools:** Git, Docker, VS Code, Visual Studio, PyCharm, IntelliJ, Postman
+- **Testing & Automation:** Selenium, A/B Testing, PyTest, User Acceptance Testing (UAT), Regression Testing
+
+### **Data Engineering**
+- **Data Pipelines & ETL:** Building ETL workflows with tools like Apache Kafka, Apache Airflow, dbt, AWS Glue.
+- **Big Data Solutions:** Working with Hadoop, Spark, PySpark, and Hive for large-scale data processing.
+- **Data Warehousing & Analytics:** Designing and implementing data warehousing solutions using Redshift, Snowflake, BigQuery, and Azure Synapse Analytics.
+- **Data Visualization:** Creating impactful reports and dashboards using tools like Tableau, QuickSight, Looker, pandas, NumPy, and Matplotlib.
+
+## 💻 Technical Expertise
+
+- **Languages & Frameworks:** Java, Python, C/C++, SQL (Postgres), JavaScript, React, Node.js, .NET, Spring Boot
+- **Cloud Platforms:** AWS (S3, EC2, Redshift, Glue, Lambda, CloudWatch), GCP, Azure
+- **Big Data Technologies:** Hadoop, Spark, PySpark, Hive
+- **Developer Tools:** Git, Docker, Jenkins, VS Code, PyCharm, IntelliJ, Postman
+- **Testing & Automation:** Selenium, A/B Testing, PyTest, UAT, Regression Testing
+
+## 🌟 Let's Connect
+
+Feel free to explore my projects and reach out if you’d like to collaborate on any exciting challenges or opportunities.
+
+---
+
+🔗 [LinkedIn](https://www.linkedin.com/in/sumanthg1/) | 🔗 [GitHub](https://github.com/sumanth-lab/)

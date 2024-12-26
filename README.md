@@ -1,7 +1,4 @@
-# Sumanth
-
-
-# Koushik Modekurti | Software Engineer & Data Engineer
+# Sumanth Gunda | Software Engineer & Data Engineer
 
 Hi, I'm **Sumanth Gunda**, a passionate **Software Engineer** and **Data Engineer** with over 2+ years of experience in developing scalable software solutions, building efficient data pipelines, and enabling organizations to leverage cloud technologies for data-driven decision-making.
 

@@ -10,12 +10,17 @@
 ---
 
 ### About Me 👋
-- 🎓 Master's in Computer Science at **ASU** | Graduation: May 2024  
-- 💻 Ex **Software Engineer @ American Express** | Expertise in REST APIs, scalable solutions, and cloud deployments  
-- 🌱 Passionate about Full-Stack Development, Cloud Technologies, and Advanced Algorithms  
-- 👨‍💻 Experienced in leading development teams and delivering high-impact projects  
-- 📊 Driven to tackle challenges, innovate, and stay ahead with cutting-edge technologies.
-- 🚀 Exploring opportunities to create meaningful contributions in dynamic teams.
+🎓 Master's in Computer Science at **ASU** | May 2024  
+
+💼 Software Engineer at American Express with a focus on building robust RESTful APIs, cloud-native applications, and scalable systems
+
+🌐 Enthusiastic about full-stack development, cloud infrastructure, and algorithmic problem-solving
+
+👥 Proven track record of leading dev teams and delivering impactful tech solutions
+
+🧠 Always eager to solve complex problems, drive innovation, and stay at the forefront of emerging technologies
+
+🌟 Currently seeking exciting opportunities to make a real-world impact alongside passionate and collaborative teams
 
 ---
 

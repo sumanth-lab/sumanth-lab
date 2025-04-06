@@ -84,13 +84,15 @@
 ---
 
 ### 🌟 Featured Projects:
-#### *Su*
-- *Tech Stack:* Python, Django, Bootstrap  
-- *Highlights:* Dev.
+#### *Bank Management System*
+- Frontend: HTML, CSS, Bootstrap, JavaScript
+- Backend: PHP
+- Database: SQL
+- *Facts:* Developed real-time transaction features for seamless fund transfers and account updates.
 
-#### *Fu*
-- *Tech Stack:* React, Spring Boot, MongoDB  
-- *Highlights:* De.
+#### *Walmart Sales Forcasting*
+- *Tech Stack:* Python, Machine Learning, AWS S3, Apache Spark  
+- *Highlights:* Built and evaluated multiple models, achieving 90% accuracy with the Random Forest model for sales prediction.
 
 ---
 

@@ -44,7 +44,7 @@
 
 ### ⚒️ Technical Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30"> :
 
-- **Programming Languages:** Java, Python, C/C++, JavaScript, SQL (Postgres), R, HTML/CSS, Bash, Shell Script, MongoDB
+- **Programming Languages:** Java, Python, C/C++, C#, JavaScript, SQL (Postgres), R, HTML/CSS, Bash, Shell Script, MongoDB
 - **Frameworks & Technologies:** React, Node.js, Spring Boot, .NET, TensorFlow, PySpark
 - **Cloud Platforms:** AWS (S3, EC2, Redshift, Glue, Lambda, CloudWatch)
 - **Developer Tools:** Git, Docker, VS Code, Visual Studio, PyCharm, IntelliJ, Postman
